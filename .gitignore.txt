@@ -1,0 +1,39 @@
+# Folder-folder lain yang dibuat otomatis oleh Unity.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Uu]ser[Ss]ettings/
+/[Aa]ssets/AssetStoreTools*
+
+# File solusi & proyek IDE
+*.sln
+*.csproj
+*.unityproj
+.vs/
+.idea/
+.vscode/
+
+# File Sistem Operasi
+.DS_Store
+Thumbs.db
+
+# Build output
+*.apk
+*.aab
+*.exe
+*.ipa
+
+# File Crash
+*.crash
+
+aifilter_BackUpThisFolder_ButDontShipItWithYourGame/
+AIfilter_BurstDebugInformation_DoNotShip/
+
+*.symbols.zip
+*.sym.so
+/.utmp/
